@@ -10,5 +10,9 @@
     "angular-page": {
       "skipChangeDetectionOnPush": true
     }
-  }
+  },
+  "cSpell.words": [
+    "mapbox",
+    "mapboxgl"
+  ]
 }
